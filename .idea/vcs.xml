@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ConferenceDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../EquityAI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../HazelcastUtil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Tableau WDC/webdataconnector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../bpsi-schema-util" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../bpsi-services" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../bpsi-test-event-gen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../bpsi-test-hdfs-comsumer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../bpsitesting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../implement-avro-inheritance" vcs="Git" />
+  </component>
+</project>
